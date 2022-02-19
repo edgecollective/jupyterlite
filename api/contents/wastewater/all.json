@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-19T02:39:16.179456Z",
+      "created": "2022-02-19T15:28:43.280794Z",
       "format": null,
-      "last_modified": "2022-02-19T02:38:01.351240Z",
+      "last_modified": "2022-02-19T15:27:40.985686Z",
       "mimetype": null,
-      "name": "wastewater.ipynb",
-      "path": "wastewater/wastewater.ipynb",
-      "size": 73225,
+      "name": "parse.ipynb",
+      "path": "wastewater/parse.ipynb",
+      "size": 296442,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-02-19T02:39:16.175456Z",
+  "created": "2022-02-19T15:28:43.280794Z",
   "format": "json",
-  "last_modified": "2022-02-19T02:39:16.175456Z",
+  "last_modified": "2022-02-19T15:28:43.280794Z",
   "mimetype": null,
   "name": "wastewater",
   "path": "wastewater",
